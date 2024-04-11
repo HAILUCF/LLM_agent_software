@@ -1,4 +1,4 @@
-# LLM_agent_software
+# LLM Agent for Software Building and Installation
 Automating HPC Software Compilation, Deployment, and Error Resolution  through Large Language Model Agents
 
 # Abstract
