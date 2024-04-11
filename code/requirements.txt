@@ -1,0 +1,4 @@
+openai>=0.10.0
+anthropic
+torch==1.8.1
+transformers>=4.5.0
